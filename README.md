@@ -1,2 +1,2 @@
-# mini-game
-This is a repository for uploading small games that I program
+# Rule game
+This repo is a command game with Python.
